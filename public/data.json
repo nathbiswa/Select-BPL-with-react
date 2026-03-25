@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "playerName": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "rating": 9.5,
+    "picture": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 2,
+    "playerName": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1200000,
+    "rating": 9.2,
+    "picture": "https://wallpapers.com/images/high/joe-root-portrait-31krp0eo0xyw2om5.webp"
+  },
+  {
+    "id": 3,
+    "playerName": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "hand": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1400000,
+    "rating": 9.3,
+    "picture": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5142/live/4ef905d0-82e1-11ef-93fc-47e7b6e6a87f.jpg.webp"
+  },
+  {
+    "id": 4,
+    "playerName": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1300000,
+    "rating": 9.4,
+    "picture": "https://i.pinimg.com/736x/d0/71/d1/d071d140580181b5a8e12d5506200c29.jpg"
+  },
+  {
+    "id": 5,
+    "playerName": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1250000,
+    "rating": 9.1,
+    "picture": "https://wallpaperaccess.com/full/1776405.jpg"
+  },
+  {
+    "id": 6,
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "hand": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "price": 1100000,
+    "rating": 9.0,
+    "picture": "https://media.crictracker.com/web/large/media/featureimage/Shakib-Al-Hasan-1-1.webp"
+  },
+  {
+    "id": 7,
+    "playerName": "Steve Smith",
+    "country": "Australia",
+    "type": "Batsman",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg break",
+    "price": 1350000,
+    "rating": 9.3,
+    "picture": "https://wallpapers.com/images/featured-full/steve-smith-pictures-plqsoal1luugiyt3.jpg"
+  },
+  {
+    "id": 8,
+    "playerName": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "hand": "Left-hand bat",
+    "bowlingStyle": "Right-arm leg break",
+    "price": 1150000,
+    "rating": 8.9,
+    "picture": "https://media.gettyimages.com/id/1160440588/photo/australia-v-south-africa-icc-cricket-world-cup-2019.jpg?s=1024x1024&w=gi&k=20&c=MNxYRsLB451J99mFn8c3uyGYwuHq6p1OIvkUu2IGljM="
+  },
+  {
+    "id": 9,
+    "playerName": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg break",
+    "price": 1000000,
+    "rating": 9.2,
+    "picture": "https://wallpaperaccess.com/full/5396016.jpg"
+  },
+  {
+    "id": 10,
+    "playerName": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "hand": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1200000,
+    "rating": 9.4,
+    "picture": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png"
+  }
+]

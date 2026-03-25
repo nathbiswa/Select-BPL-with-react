@@ -2,14 +2,14 @@ import React from "react";
 
 import Cart from "../Ui/Cart";
 
-const AvailablePlayers = ({ palayers }) => {
+const AvailablePlayers = ({ palayers, setCoin, coin }) => {
   const avalablePlayers = palayers;
-  console.log(avalablePlayers);
+//   console.log(avalablePlayers);
   return (
     <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       {avalablePlayers.map((player) => {
        return (
-        <Cart player={player}></Cart>
+        <Cart key={player.id} player={player} setCoin={setCoin} coin={coin}></Cart>
     //    <div className="card bg-base-100 shadow-sm">
     //       <figure>
     //         <img
